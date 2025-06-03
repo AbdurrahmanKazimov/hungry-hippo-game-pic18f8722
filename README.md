@@ -28,12 +28,4 @@ This project implements a simple "Hungry Hippo" game on the PIC18F8722 microcont
 ## Files
 
 - `hippo_game.c`: Source code for the game.
-- `CENG336_THE2_2025_v1.pdf`: Assignment description and specifications.
 
-## Notes
-
-- The code strictly follows the assignment requirements from Middle East Technical University, CENG336 course.
-
----
-
-Feel free to reach out if you want to collaborate or improve this project!
